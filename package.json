@@ -1,0 +1,22 @@
+{
+  "name": "red_hen",
+  "version": "1.0.0",
+  "description": "Task Manager Tool",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/russell-johnson/red_hen.git"
+  },
+  "author": "Russell Johnson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/russell-johnson/red_hen/issues"
+  },
+  "homepage": "https://github.com/russell-johnson/red_hen#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
